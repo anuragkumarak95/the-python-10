@@ -5,6 +5,7 @@ This Repository is my collection of 10 different application cases and scenarios
 ## Applications
 
 1. [App1](./app1-shell_interactive/README.md) Shell Interactive
+1. [App2](./app2-webmaps/README.md) Web Maps
 
 ***Contributions Are welcomed here.***
 

@@ -1,3 +1,9 @@
+r'''Author Anurag Kumar(mailto:anuragkumarak95@gmail.com)
+This Example uses data.json file in same directory as its data source,
+and returns meaningsfor word input by user.
+
+It is a standard example for Shell Bases user inetractive application build on python.
+'''
 from  difflib import get_close_matches
 import json
 
